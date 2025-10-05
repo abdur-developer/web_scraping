@@ -1,0 +1,74 @@
+{
+    "data": {
+      "Warning": [
+        {
+          "title": "Warning",
+          "File_URL": "https://live8.bmd.gov.bd/file/2024/11/27/doc/176882.doc",
+          "lastUpdate": "2024-11-27 15:06:38"
+        },
+        {
+          "title": " Heavy Rainfall Warning",
+          "File_URL": "https://live8.bmd.gov.bd/file/2024/12/18/pdf/177838.pdf",
+          "lastUpdate": "2024-12-18 13:51:55"
+        },
+        {
+          "title": "Fog Warning",
+          "File_URL": "",
+          "lastUpdate": ""
+        },
+        {
+          "title": "Inland Riverport Warning",
+          "File_URL": "https://live8.bmd.gov.bd/file/2025/02/01/pdf/179751.pdf",
+          "lastUpdate": "2025-02-01 10:16:32"
+        },
+        {
+          "title": "Kalboishakhi Warning",
+          "File_URL": "https://live8.bmd.gov.bd/file/2024/05/08/pdf/166276.pdf",
+          "lastUpdate": "2024-05-08 16:06:26"
+        },
+        {
+          "title": "Marine Warning",
+          "File_URL": "https://live8.bmd.gov.bd/file/2024/12/21/pdf/178001.pdf",
+          "lastUpdate": "2024-12-21 22:10:12"
+        }
+      ],
+      "Forecast": [
+        {
+          "point_id": "1",
+          "pointname": "Dhaka",
+          "timeUpdate": "2025-02-01",
+          "weather": "Partly Cloudy",
+          "weather_icon": "file/2016/08/17/png/1129.png",
+          "sunrise": "6:39",
+          "sunset": "5:45",
+          "maxtemp": "27.6",
+          "mintemp": "20.4",
+          "rainfall": "0.0",
+          "wind": "6.0",
+          "mHumidity": "79.0",
+          "eHumidity": "34.0",
+          "SurPresure": "1013.1",
+          "tnmaxtem": "",
+          "tnmintem": ""
+        },
+        {
+          "point_id": "4",
+          "pointname": "Chattogram",
+          "timeUpdate": "2025-02-01",
+          "weather": "Partly Cloudy",
+          "weather_icon": "file/2016/08/17/png/1129.png",
+          "sunrise": "6:31",
+          "sunset": "5:41",
+          "maxtemp": "28.0",
+          "mintemp": "18.8",
+          "rainfall": "0.0",
+          "wind": "9.0",
+          "mHumidity": "77.0",
+          "eHumidity": "83.0",
+          "SurPresure": "1013.2",
+          "tnmaxtem": "",
+          "tnmintem": ""
+        }
+      ]
+    }
+}
